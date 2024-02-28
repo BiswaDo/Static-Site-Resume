@@ -64,7 +64,6 @@ nav{
         .profile-image img{
             min-width: 10vw;
             max-width: 170px;
-            border: 1px solid;
             border-radius: 50%;
         }
         h2{
