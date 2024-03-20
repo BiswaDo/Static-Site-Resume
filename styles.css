@@ -105,7 +105,6 @@ nav{
     #certificate{
         img{
             width: 250px;
-            border: 1px solid;
         }
         .grid-container{
             margin: 20px 0px;
@@ -113,7 +112,7 @@ nav{
             display: grid;
             grid-template-columns: auto auto auto;
             text-align: center;
-            
+            background: #ccc; 
             p{
               font-size: 15px;  
             }
