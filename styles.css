@@ -103,6 +103,7 @@ nav{
     }
     
     #certificate{
+        background: #c2c2c2;
         img{
             width: 250px;
         }
@@ -112,7 +113,7 @@ nav{
             display: grid;
             grid-template-columns: auto auto auto;
             text-align: center;
-            background: #ccc; 
+ 
             p{
               font-size: 15px;  
             }
